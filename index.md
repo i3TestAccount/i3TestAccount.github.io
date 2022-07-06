@@ -10,3 +10,7 @@ GitHub provides the image format, just fill in the SRC to be the URL to the imag
 3. [I3 Sample Code](https://github.com/thearcadio/i3-Sample-Code)
 
 ### I made a change
+
+# Header 1
+## Header 2
+### Header 3
