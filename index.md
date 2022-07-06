@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### I want to have an image!
 ![Image](src) is the format they provided, the src is the link to the image you just uploaded
-[Image](https://github.com/i3TestAccount/i3TestAccount.github.io/blob/main/my_graph.png)
+![Image](https://github.com/i3TestAccount/i3TestAccount.github.io/blob/main/my_graph.png)
 
 ### Markdown
 
