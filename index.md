@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### I want to have an image!
 They provide the image format below, just fill in the SRC to be the URL to the image you want!
-[Image](https://github.com/i3TestAccount/i3TestAccount.github.io/blob/main/my_graph.png)
+![Image](https://github.com/i3TestAccount/i3TestAccount.github.io/blob/main/my_graph.png)
 
 ### Markdown
 
