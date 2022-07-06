@@ -5,8 +5,8 @@ You can use the [editor on GitHub](https://github.com/i3TestAccount/i3TestAccoun
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### I want to have an image!
-![Image](src) is the format they provided, the src is the link to the image you just uploaded
-![Image](https://github.com/i3TestAccount/i3TestAccount.github.io/blob/main/my_graph.png)
+They provide the image format below, just fill in the SRC to be the URL to the image you want!
+[Image](https://github.com/i3TestAccount/i3TestAccount.github.io/blob/main/my_graph.png)
 
 ### Markdown
 
