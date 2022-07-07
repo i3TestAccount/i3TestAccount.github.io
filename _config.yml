@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: YOUR TITLE
 description: YOUR DESCRIPTION
+organizations = [ { name = "Department of Management and Entrepreneurship, <br>W.P. Carey School of Business, <br>Arizona State University " }]
+
+{{ with .Params.organizations }}{{ . | safeHTML }}{{ end }}
