@@ -1,6 +1,12 @@
 theme: jekyll-theme-slate
-title: YOUR TITLE
+# title: YOUR TITLE
 description: YOUR DESCRIPTION
-organizations: [ { name = "Department of Management and Entrepreneurship, <br>W.P. Carey School of Business, <br>Arizona State University " }]
-
-{{ with .Params.organizations }}{{ . | safeHTML }}{{ end }}
+title: |\n
+··Several lines of text,\n
+··with some "quotes" of various 'types',\n
+··and also a blank line:\n
+··\n
+··and some text with\n
+····extra indentation\n
+··on the next line,\n
+··plus another line at the end.\n
